@@ -13,5 +13,6 @@ function App() {
     </div>
   );
 }
+// destructuring is better for reusability of code!
 
 export default App;
