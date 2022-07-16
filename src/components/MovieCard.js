@@ -1,4 +1,6 @@
 import React from "react";
+//const movieTitle = "Mad Max"
+//<MovieCard title={movieTitle} />
 
 function MovieCard({
   title,
@@ -15,3 +17,4 @@ function MovieCard({
 }
 
 export default MovieCard;
+
